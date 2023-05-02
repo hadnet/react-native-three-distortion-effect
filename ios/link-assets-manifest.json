@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/AsiaTiger-2OEjl.ttf",
+      "sha1": "9cb9a9ade79155b077f736ebf7656438ed592661"
+    },
+    {
+      "path": "src/assets/fonts/AsiaTiger-K7dMA.otf",
+      "sha1": "adc9269c89b95629e3d4cacfab09aad712958e98"
+    },
+    {
+      "path": "src/assets/fonts/BakingLionPersonalUse-8X12.otf",
+      "sha1": "2b194ef7b26de662b5d6e84543cf1565547aa1bf"
+    },
+    {
+      "path": "src/assets/fonts/Beast_Wars.ttf",
+      "sha1": "5fcdda28246fadb7cda2037bfb31979bc84e0eeb"
+    },
+    {
+      "path": "src/assets/fonts/BlacoBear-vmEA4.otf",
+      "sha1": "563a616db4902d4e78deb4981e4bd7ceb83945ad"
+    }
+  ]
+}
