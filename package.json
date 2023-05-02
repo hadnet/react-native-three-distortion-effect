@@ -1,5 +1,6 @@
 {
-  "name": "rnwebgldistortion",
+  "name": "rndistortioneffect",
+  "author": "hadnet",
   "version": "0.0.1",
   "private": true,
   "scripts": {
